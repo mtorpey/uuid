@@ -10,8 +10,8 @@ SetPackageInfo( rec(
 
 PackageName := "uuid",
 Subtitle := "RFC 4122 UUIDs",
-Version := "0.7",
-Date := "01/03/2022", # dd/mm/yyyy format
+Version := "3.1", # Hacked by MY for PackageManager tests
+Date := "11/11/2026", # dd/mm/yyyy format
 License := "BSD-3-Clause",
 
 Persons := [
